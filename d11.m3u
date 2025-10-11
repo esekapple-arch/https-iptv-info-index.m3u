@@ -9953,3 +9953,5 @@ http://
 http://
 #EXTINF:-1,TEST 02 🎉🥳🎊
 http://
+#EXTM3U
+#EXTINF:-1 tvg-id="coraptv" tvg-name="Çorap TV" tvg-logo="https://example.com/logo/coraptv.png" group-title="Eğlence",Çorap TV https://www.youtube.com/watch?v=6-8E4Nirh9s
