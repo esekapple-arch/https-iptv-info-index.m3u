@@ -9955,3 +9955,9 @@ http://
 http://
 #EXTM3U
 #EXTINF:-1 tvg-id="coraptv" tvg-name="Çorap TV" tvg-logo="https://example.com/logo/coraptv.png" group-title="Eğlence",Çorap TV https://www.youtube.com/watch?v=6-8E4Nirh9s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png",RT FRANÇAIS
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",FRANCE LA 1ÈRE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8                                                                    #EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",FRANCE LA 1ÈRE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",FRANCE LA 1ÈRE
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8#EXTINF:-1 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png",DELUXE MUSIC Lounge
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
