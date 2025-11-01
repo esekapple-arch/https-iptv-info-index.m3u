@@ -11771,3 +11771,6 @@ https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
 https://tvr-tvrtimisoara.cdn.zitec.com/live/tvrtimisoara/main.m3u8
 #EXTINF:-1 tvg-id="TVSat.ro@SD",TVSat (576p) [Not 24/7]
 http://89.38.8.130:39443                                                                                                                         
+#EXTINF:-1,Rai 4 HD
+http://alohaserver.ddns.net:2300/live/studio001/studio002/9633.ts     #EXTINF:-1,13 Ulica HD PL
+http://clientportal.link:8080/live/kujtim/kujtim1/15100.ts
